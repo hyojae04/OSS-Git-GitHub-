@@ -207,12 +207,6 @@ git commit --amend   # 가장 최근 커밋 메시지/내용 수정
 git rebase -i HEAD~3 # 최근 3개 커밋 정리
 ```
 
-* pick / squash / reword 등 다양한 정리 옵션 제공
-
-### ✔ Git Graph
-
-* VS Code 확장 프로그램으로 커밋/브랜치 시각화 가능
-
 ---
 
 ## **10주차 — Reset vs Revert 상세 비교**
@@ -238,12 +232,3 @@ git reset --hard 커밋ID
 git revert 커밋ID
 ```
 
----
-
-## ✔ 전체 핵심 흐름 요약 (상세 버전)
-
-```
-저장소 생성 → 환경 설정 → add/commit 반복 → GitHub 연결 → push
-기능 개발 시 브랜치 생성 → 개발 → merge 또는 rebase → 충돌 해결
-이력 정리(rebase/commit amend) → 실수 시 reset/revert로 복원
-```
