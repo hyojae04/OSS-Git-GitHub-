@@ -11,6 +11,9 @@
 
 * Git 저장소를 클라우드에 올려 협업을 가능하게 하는 플랫폼
 * Pull Request, Issue, Wiki 등 협업용 기능 제공
+<img width="2816" height="1536" alt="Gemini_Generated_Image_qe2rr2qe2rr2qe2r" src="https://github.com/user-attachments/assets/d8cdfd86-34db-4f07-82ca-ff3d403c3c90" />
+
+
 
 ### ✔ 오픈소스 특징
 
