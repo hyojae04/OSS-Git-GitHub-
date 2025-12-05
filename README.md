@@ -20,6 +20,8 @@
 * 누구나 코드 열람·수정 가능
 * 라이선스에 따라 사용/배포 조건이 다름
 * 대표 사례: Linux, VS Code, React
+<img width="2816" height="1536" alt="Gemini_Generated_Image_36h9nd36h9nd36h9" src="https://github.com/user-attachments/assets/b8e32681-628e-48dd-8a3f-07d60c7ad30b" />
+
 
 ---
 
@@ -33,6 +35,8 @@ git config --global user.email "이메일"
 git config --global core.autocrlf input
 git config --global init.defaultBranch main
 ```
+<img width="2816" height="1536" alt="Gemini_Generated_Image_ru3cperu3cperu3c" src="https://github.com/user-attachments/assets/f786c29a-73e0-4ebf-b04a-84501e71504f" />
+
 
 ### ✔ 리눅스 필수 명령어
 
@@ -41,6 +45,7 @@ git config --global init.defaultBranch main
 * `pwd` : 현재 위치 확인
 * `mkdir` : 폴더 생성
 * `touch` : 빈 파일 만들기
+<img width="2816" height="1536" alt="Gemini_Generated_Image_5cfirc5cfirc5cfi" src="https://github.com/user-attachments/assets/a56d0468-f8eb-4fc5-b0a7-18bc5973c687" />
 
 ### ✔ Git 저장소 생성
 
