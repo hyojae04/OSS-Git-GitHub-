@@ -52,8 +52,9 @@ git config --global init.defaultBranch main
 ```bash
 git init
 ```
-
 → .git 폴더가 생기고 Git으로 버전 관리 시작
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_5cfirc5cfirc5cfi" src="https://github.com/user-attachments/assets/c688fefd-4fc7-4cc0-b93a-0d2e101b06ff" />
 
 ---
 
