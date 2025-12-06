@@ -108,6 +108,7 @@ git rm 파일명
 git restore 파일명            # 작업 디렉토리 복원
 git restore --staged 파일명   # 스테이징 취소
 ```
+<img width="2816" height="1536" alt="Gemini_Generated_Image_bmvfcpbmvfcpbmvf" src="https://github.com/user-attachments/assets/88ed15e5-d6a3-4ce8-916a-2a8a3c749077" />
 
 ---
 
