@@ -63,6 +63,7 @@ git init
 1. **Working Directory**: 실제 파일이 있는 공간
 2. **Staging Area(index)**: commit으로 묶을 파일들을 올려두는 대기 공간
 3. **Repository**: 최종 기록(commit)이 저장되는 공간
+<img width="2816" height="1536" alt="Gemini_Generated_Image_wdgq2pwdgq2pwdgq" src="https://github.com/user-attachments/assets/ccf14f2f-6b07-4200-a2fb-835a459f7817" />
 
 ### ✔ 기본 작업 흐름
 
@@ -97,6 +98,7 @@ git diff --staged   # 스테이지 ↔ 저장소
 ```bash
 git rm 파일명
 ```
+<img width="2816" height="1536" alt="Gemini_Generated_Image_c37f64c37f64c37f" src="https://github.com/user-attachments/assets/d15df703-c477-4a22-b27e-bf90becf0c8a" />
 
 → 삭제된 상태까지 커밋됨
 
